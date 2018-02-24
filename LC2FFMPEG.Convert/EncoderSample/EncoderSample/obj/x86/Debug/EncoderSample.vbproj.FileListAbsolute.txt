@@ -1,0 +1,54 @@
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\Resources\ffmpeg.exe
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe.config
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\EncoderSample.pdb
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\EncoderSample.xml
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\FFLib.dll
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\FFLib.pdb
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\bin\Debug\FFLib.xml
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Form1.resources
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Resources.resources
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.exe
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.xml
+C:\Users\Greg Chumney\documents\visual studio 2010\Projects\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.pdb
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe.config
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\EncoderSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Form1.resources
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Resources.resources
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\EncoderSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\EncoderSample\obj\x86\Debug\GenerateResource.write.1.tlog
+\\FREENAS\root\movies_2\BACKUP\SoftWare\SDK\Projects\EncoderSample\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe.config
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe.config
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\Resources\ffmpeg.exe
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\FFLib.dll
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Form1.resources
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Resources.resources
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.exe
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.xml
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.pdb
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\EncoderSample.pdb
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\EncoderSample.xml
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\FFLib.pdb
+C:\Users\Greg Chumney\Desktop\EncoderSample\EncoderSample\bin\Debug\FFLib.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe.config
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.exe
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.pdb
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\Resources\ffmpeg.exe
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\EncoderSample.exe
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\EncoderSample.pdb
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\EncoderSample.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\FFLib.dll
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\FFLib.pdb
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Debug\FFLib.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.vbprojResolveAssemblyReference.cache
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Form1.resources
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.Resources.resources
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Debug\EncoderSample.vbproj.GenerateResource.Cache

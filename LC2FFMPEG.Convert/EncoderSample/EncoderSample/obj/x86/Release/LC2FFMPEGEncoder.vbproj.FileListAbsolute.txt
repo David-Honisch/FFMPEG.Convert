@@ -1,0 +1,14 @@
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\LC2FFMPEGEncoder.exe.config
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\Resources\ffmpeg.exe
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\LC2FFMPEGEncoder.exe
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\LC2FFMPEGEncoder.pdb
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\LC2FFMPEGEncoder.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\FFLib.dll
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\FFLib.pdb
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\bin\Release\FFLib.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Release\LC2FFMPEGEncoder.Form1.resources
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Release\LC2FFMPEGEncoder.Resources.resources
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Release\LC2FFMPEGEncoder.vbproj.GenerateResource.Cache
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Release\LC2FFMPEGEncoder.exe
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Release\LC2FFMPEGEncoder.xml
+D:\source\c#\FFMPEG.Convert.v.1.2\EncoderSample\EncoderSample\obj\x86\Release\LC2FFMPEGEncoder.pdb
